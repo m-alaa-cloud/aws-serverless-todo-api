@@ -10,7 +10,7 @@ It includes a static frontend hosted on Amazon S3 and a fully managed backend us
 ---
 ## 🧱 Architecture
 
-![Architecture](./architecture-diagram.png)
+![Architecture](./architecture-diagram)
 
 ---
 
