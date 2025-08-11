@@ -8,10 +8,15 @@ It includes a static frontend hosted on Amazon S3 and a fully managed backend us
 > ✅ This project is based on the AWS Solutions Architect Associate.
 
 ---
+## 🧱 Architecture
+
+![Architecture](./architecture-diagram.png)
+
+---
 
 ### 🔄 Components
 - **Frontend**:  
-  Static HTML + JS website hosted on Amazon S3  
+  Static HTML + JS website hosted on Amazon S3  ِِ
   (communicates with the backend using fetch + REST API)
 
 - **API Gateway**:  
