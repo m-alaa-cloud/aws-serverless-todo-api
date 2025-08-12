@@ -10,7 +10,7 @@ It includes a static frontend hosted on Amazon S3 and a fully managed backend us
 ---
 ## 🧱 Architecture
 
-![Architecture](aws-serverless-todo-api/architecture-diagram.png.PNG)
+![Architecture](./architecture-diagram.png.PNG)
 
 ---
 
