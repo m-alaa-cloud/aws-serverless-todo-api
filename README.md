@@ -45,7 +45,7 @@ It includes a static frontend hosted on Amazon S3 and a fully managed backend us
 
 ---
 ## 🚀 Demo
-Frontend (S3 Hosting): [Open App](https://your-bucket-name.s3.amazonaws.com/index.html)
+Frontend (S3 Hosting): [Open App](http://alaa-todo-frontend.s3-website.eu-north-1.amazonaws.com/)
 ---
 
 ## 🛠 Technologies Used
